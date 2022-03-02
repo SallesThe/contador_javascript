@@ -1,0 +1,24 @@
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: tomato;
+    color: white;
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+button.hover{
+    color: tomato;
+}
+
+#counter{
+    display: flex;
+}
